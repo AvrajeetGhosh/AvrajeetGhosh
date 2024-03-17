@@ -1,5 +1,6 @@
-
-<img src="Edit.png" alt="">
+<h1 align="center">Hi There 👋, I'm Avrajeet</h1>
+<h3 align="center">A passionate embedded system developer from India</h3>
+<img src="Edit.png" height="500" width="1000" alt="">
 - 🌱 I’m currently learning **DBMS and DSA**
 
 - 👨‍💻 All of my projects are available at [https://aghoshportfolio.dorik.io/](https://aghoshportfolio.dorik.io/)
