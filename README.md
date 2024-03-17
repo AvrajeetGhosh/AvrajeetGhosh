@@ -8,7 +8,7 @@
 
 - <img src="laptop.gif"  width="21" />&nbsp;&nbsp; All of my projects are available at [https://aghoshportfolio.dorik.io/](https://aghoshportfolio.dorik.io/)
 
-- 💬 Ask me about **Arduino, Embedded system**
+- <img src="lightning.gif"  width="21" />&nbsp;&nbsp; Ask me about **Arduino, Embedded system**
 
 - <img src="letterbox.gif"  width="21" />&nbsp;&nbsp; How to reach me **avrajeet2003@gmail.com**
 
