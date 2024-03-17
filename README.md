@@ -6,11 +6,11 @@
 
 - <img src="developer.gif"  width="21" />&nbsp;&nbsp; I’m currently learning **DBMS and DSA**
 
-- 👨‍💻 All of my projects are available at [https://aghoshportfolio.dorik.io/](https://aghoshportfolio.dorik.io/)
+-  All of my projects are available at [https://aghoshportfolio.dorik.io/](https://aghoshportfolio.dorik.io/)
 
 - 💬 Ask me about **Arduino, Embedded system**
 
-- 📫 How to reach me **avrajeet2003@gmail.com**
+- <img src="letterbox.gif"  width="21" />&nbsp;&nbsp; How to reach me **avrajeet2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
