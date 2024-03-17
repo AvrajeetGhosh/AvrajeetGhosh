@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/https://linkedin.com/in/avrajeet-ghosh-7b5966270" target="blank"><img align="center" src="LIN.gif" alt="https://linkedin.com/in/avrajeet-ghosh-7b5966270" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100005262282002&mibextid=zbwkwl" target="blank"><img align="center" src="FB.gif" alt="https://www.facebook.com/profile.php?id=100005262282002&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_ghosh_avrajeet_" target="blank"><img align="center" src="IG.gif" alt="https://www.instagram.com/_ghosh_avrajeet_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@bongtour2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bongtour2003" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@bongtour2003" target="blank"><img align="center" src="YT2.gif" alt="https://www.youtube.com/@bongtour2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
