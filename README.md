@@ -1,6 +1,6 @@
 
 <h1 align="center">Avra's Hub</h1>
-
+<img src="Edit.jpg" alt="">
 
 <p align="left"> <a href="https://twitter.com/avrajeet_ghosh" target="blank"><img src="https://img.shields.io/twitter/follow/avrajeet_ghosh?logo=twitter&style=for-the-badge" alt="avrajeet_ghosh" /></a> </p>
 
