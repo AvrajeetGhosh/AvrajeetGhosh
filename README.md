@@ -1,5 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Avrajeet</h1>
-<h3 align="center">A passionate embedded system developer from India</h3>
+
 <img src="Edit.png" alt="">
 - 🌱 I’m currently learning **DBMS and DSA**
 
