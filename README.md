@@ -6,7 +6,7 @@
 
 - <img src="developer.gif"  width="21" />&nbsp;&nbsp; I’m currently learning **DBMS and DSA**
 
--  All of my projects are available at [https://aghoshportfolio.dorik.io/](https://aghoshportfolio.dorik.io/)
+- <img src="laptop.gif"  width="21" />&nbsp;&nbsp; All of my projects are available at [https://aghoshportfolio.dorik.io/](https://aghoshportfolio.dorik.io/)
 
 - 💬 Ask me about **Arduino, Embedded system**
 
