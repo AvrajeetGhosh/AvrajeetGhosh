@@ -1,5 +1,5 @@
 <h1 align="center">GitHub</h1>
-<img src="Edit.png" height="500px" width="1000" alt="">
+<img src="Edit.png"  alt="">
 
 <p align="left"> <a href="https://twitter.com/avrajeet_ghosh" target="blank"><img src="https://img.shields.io/twitter/follow/avrajeet_ghosh?logo=twitter&style=for-the-badge" alt="avrajeet_ghosh" /></a> </p>
 
