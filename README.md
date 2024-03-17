@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/avrajeet_ghosh" target="blank"><img src="https://img.shields.io/twitter/follow/avrajeet_ghosh?logo=twitter&style=for-the-badge" alt="avrajeet_ghosh" /></a> </p>
 
-- 🌱 I’m currently learning **DBMS and DSA**
+- <img src="developer.gif"  width="21" />&nbsp;&nbsp; I’m currently learning **DBMS and DSA**
 
 - 👨‍💻 All of my projects are available at [https://aghoshportfolio.dorik.io/](https://aghoshportfolio.dorik.io/)
 
