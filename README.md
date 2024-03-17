@@ -1,8 +1,9 @@
 
 <h1 align="center">Avra's Hub  <img src="Ani.gif" width="35"> </h1>
 <img src="Edit.jpg" alt="">
-
-<p align="left"> <a href="https://twitter.com/avrajeet_ghosh" target="blank"><img src="https://img.shields.io/twitter/follow/avrajeet_ghosh?logo=twitter&style=for-the-badge" alt="avrajeet_ghosh" /></a> </p>
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+<a href="https://twitter.com/avrajeet_ghosh" target="blank"><img src="https://img.shields.io/twitter/follow/avrajeet_ghosh?logo=twitter&style=for-the-badge" alt="avrajeet_ghosh" /></a>
 
 - <img src="developer.gif"  width="21" />&nbsp;&nbsp; I’m currently learning **DBMS and DSA**
 
